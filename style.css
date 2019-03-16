@@ -1,0 +1,20 @@
+#labelForCB {
+  background-color: blueviolet;
+}
+
+.container.test {
+  background-color: pink;
+}
+
+.container > .child {
+  color: #0000FF;
+}
+
+.child {
+  color: red !important;
+}
+
+.flexParent {
+  display: flex;
+  justify-content: space-between;
+}
